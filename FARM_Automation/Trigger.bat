@@ -1,0 +1,1 @@
+"C:\Users\i30691\OneDrive - Verisk Analytics\Documents\FARM_Automation\0_Code\Auto\venv\Scripts\python.exe" "C:/Users/i30691/OneDrive - Verisk Analytics/Documents/FARM_Automation/0_Code/Auto/Main_wrapper.py"

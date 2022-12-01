@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "C:/Users/i30691/OneDrive - Verisk Analytics/Documents/FARM_Automation/0_Code/Auto/Main_wrapper.py", line 14, in <module>
+    from lob_split import *
+  File "C:\Users\i30691\OneDrive - Verisk Analytics\Documents\FARM_Automation\0_Code\Auto\lob_split.py", line 8, in <module>
+    from Wrapper_Farm import*
+  File "C:\Users\i30691\OneDrive - Verisk Analytics\Documents\FARM_Automation\0_Code\Auto\Wrapper_Farm.py", line 4, in <module>
+    from state_table_mapping import*
+  File "C:\Users\i30691\OneDrive - Verisk Analytics\Documents\FARM_Automation\0_Code\Auto\state_table_mapping.py", line 17, in <module>
+    clms,eips=eval(fun)
+  File "<string>", line 1, in <module>
+  File "C:\Users\i30691\OneDrive - Verisk Analytics\Documents\FARM_Automation\0_Code\Auto\AC.py", line 10, in AC
+    Print(1)
+NameError: name 'Print' is not defined

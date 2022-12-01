@@ -1,0 +1,5 @@
+state=29
+lob=FR
+filingDesignation=fr-2020-rla1
+filingVersion=1
+user_id=i30691
